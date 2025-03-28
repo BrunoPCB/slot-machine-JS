@@ -1,0 +1,22 @@
+{
+  "name": "slot-machine---javascript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoPCB/slot-machine-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoPCB/slot-machine-JS/issues"
+  },
+  "homepage": "https://github.com/BrunoPCB/slot-machine-JS#readme",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
